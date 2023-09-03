@@ -11,8 +11,6 @@ Over the years, I've had the privilege of collaborating with numerous local busi
 
 <h2 align="left"> Skills </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nricciardi&show_icons=true&locale=en&layout=compact" alt="nricciardi" /></p>
-
 <h3 align="left"> Languages </h3>
 
 - Java
@@ -25,7 +23,47 @@ Over the years, I've had the privilege of collaborating with numerous local busi
 - C
 - C++
 - Bash
+- Arduino
+
+(not languages)
+- HTML
+- CSS
+- SCSS
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nricciardi&show_icons=true&locale=en&layout=compact" alt="nricciardi" /></p>
 
 <h3 align="left"> Framework </h3>
+
+<h4 align="left"> Backend </h4>
+
+- Laravel
+- Express (NodeJS)
+- Flask
+- Eel
+
+<h4 align="left"> Frontend </h4>
+
+- Angular
+- Bootstrap
+- JQuery
+
+<h3 align="left"> Database </h3>
+
+- MySQL
+- MS Server
+- MongoDB
+- SQLite
+
+<h3 align="left"> Other technologies </h3>
+
+- Kafka
+
+<h3 align="left"> Tools </h3>
+
+- Git (obviously)
+- Docker
+- Adobe XD
+- Adobe Photoshop
+- Adobe Premier
 
 
