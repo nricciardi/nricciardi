@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello</title>
-</head>
-<body>
-    <h1>Ciao</h1>
-</body>
-</html>
+<h1 align="center">Hi 👋, I'm Nicola Ricciardi</h1>
+
+<p>
+I'm a full stack developer from 
+
+</p>
