@@ -1,4 +1,6 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nricciardi&fontSize=90" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nricciardi&fontSize=90" />
+</p>
 
 <h1 align="center"> Hi 👋, I'm Nicola </h1>
 
