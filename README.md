@@ -9,6 +9,8 @@ I am currently employed at McRegEm in Reggio Emilia as an R&D developer speciali
 Over the years, I've had the privilege of collaborating with numerous local businesses, developing successful websites and software applications. In addition to that, I've created several applications and games, among other projects.
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nricciardi&" alt="nricciardi" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nricciardi" alt="nricciardi" /></a> </p>
 
 <h2 align="left"> Skills </h2>
@@ -25,8 +27,7 @@ Over the years, I've had the privilege of collaborating with numerous local busi
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
 
 </p>
 
@@ -112,3 +113,7 @@ Over the years, I've had the privilege of collaborating with numerous local busi
 
 Proud to be a linux user
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nricciardi&show_icons=true&locale=en&layout=compact" alt="nricciardi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nricciardi&show_icons=true&locale=en" alt="nricciardi" /></p>
