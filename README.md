@@ -9,8 +9,7 @@
 🌐 I'm a computer engineering student at UniMoRe and a full-stack developer at McRegEm R&D department in Reggio Emilia.
 
 
-
-## Contact me
+### Contact me
 
 Do you want to collaborate with me?
 
@@ -29,3 +28,5 @@ Do you want to collaborate with me?
 </div>
 
 </p>
+
+Everything that works for a particular task will be used for increasingly difficult tasks until it fails.
