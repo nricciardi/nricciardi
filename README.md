@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nricciardi&label=Profile%20views&color=0e75b6&style=flat" alt="nricciardi" /> </p>
 
-🌐 I'm a computer engineering student at UniMoRe and a full-stack developer at McRegEm R&D department in Reggio Emilia.
+🌐 I'm graduated in computer engineering at UniMoRe and a full-stack developer at McRegEm R&D department in Reggio Emilia.
 
 
 
