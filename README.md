@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nricciardi&label=Profile%20views&color=0e75b6&style=flat" alt="nricciardi" /> </p>
 
-🌐 I'm graduated in computer engineering at UniMoRe and a full-stack developer at McRegEm R&D department in Reggio Emilia.
-
-
-
-## Contact me
-
 Do you want to collaborate with me?
 
 <p align="center">
